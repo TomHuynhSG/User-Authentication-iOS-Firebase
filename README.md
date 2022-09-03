@@ -2,6 +2,10 @@
 
 Here is an example how to sign in (login) and sign up (register) a new user account using Firebase SDK for iOS application.
 
+<p align="center">
+  <img width="200" src="https://i.imgur.com/6jovHGu.png">
+</p>
+
 ## 📖 Description
 
 - This app has two views: Sign In view and Sign Up view.
