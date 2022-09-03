@@ -1,2 +1,26 @@
 # User Authentication with Firebase for iOS application
+
 Here is an example how to sign in (login) and sign up (register) a new user account using Firebase SDK for iOS application.
+
+## 📖 Description
+
+- This app has two views: Sign In view and Sign Up view.
+- You can sign up a new user account on a Firebase project and login with that new user by entering a correct username and password.
+
+<p align="center">
+  <img src="https://i.imgur.com/3HK4h8U.png" width="200" > 
+  <img src="https://i.imgur.com/3JfFckB.png" width="200" > 
+  <img src="https://i.imgur.com/anD5zC9.png" width="200" > 
+  <img src="https://i.imgur.com/P9PeZAk.png" width="200" >
+</p>
+
+## 🔧 Build Information
+- Xcode 13.4.1
+- SwiftUI Framework
+- Target Deployment iOS >=15.5
+- Library: Firebase
+  - Remember to install Firebase SDK via the package manager on Xcode.
+  - Also, copy the GoogleService-Info.plist file into the project.
+
+## 🏆 Author
+- Huynh Nguyen Minh Thong (Tom Huynh) - tomhuynhsg@gmail.com
