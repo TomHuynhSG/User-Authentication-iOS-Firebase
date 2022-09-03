@@ -24,7 +24,7 @@ Here is an example how to sign in (login) and sign up (register) a new user acco
 - Target Deployment iOS >=15.5
 - Library: Firebase
   - Remember to install Firebase SDK via the package manager on Xcode.
-  - Also, copy the GoogleService-Info.plist file into the project.
+  - Also, copy your own GoogleService-Info.plist config file of your Firebase project into the Xcode project.
 
 ## 🏆 Author
 - Huynh Nguyen Minh Thong (Tom Huynh) - tomhuynhsg@gmail.com
