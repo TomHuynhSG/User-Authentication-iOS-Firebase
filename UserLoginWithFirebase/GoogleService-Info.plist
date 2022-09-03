@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>461695810146-g67j8pl94lb35a8c0t3g2ed1nat590sm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.461695810146-g67j8pl94lb35a8c0t3g2ed1nat590sm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeBfT3vIhZ6Nb3-79P9B_F9d9i79AmS4c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>461695810146</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.edu.rmit.tom.UserLoginWithFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>ios-auth-project-f7c4c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-auth-project-f7c4c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:461695810146:ios:b0e6ba9481870bd3fdaf3b</string>
+</dict>
+</plist>
