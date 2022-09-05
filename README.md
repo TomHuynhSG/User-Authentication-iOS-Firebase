@@ -23,7 +23,7 @@ Here is an example how to sign in (login) and sign up (register) a new user acco
 - SwiftUI Framework
 - Target Deployment iOS >=15.5
 - Library: Firebase
-  - Remember to install Firebase SDK via the package manager on Xcode.
+  - Remember to install Firebase SDK via the package manager on Xcode. (This project got pre-installed Firebase SDK packages so you can skip this)
   - Also, copy your own GoogleService-Info.plist config file of your Firebase project into the Xcode project.
   - Make sure to clear the package cache on Xcode to run this project on a new iMac/Macbook:
     - In Xcode, run File ➜ Packages ➜ Reset Package Caches
