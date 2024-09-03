@@ -2,11 +2,11 @@
 //  SignUpView.swift
 //  UserLoginWithFirebase
 //
-//  Created by Tom Huynh on 9/3/22.
+//  Created by Tom Huynh on 3/9/24.
 //
 
 import SwiftUI
-import Firebase
+import FirebaseAuth
 
 struct SignUpView: View {
     @Environment(\.dismiss) var dismiss
@@ -88,8 +88,6 @@ struct SignUpView: View {
     }
 }
 
-struct SignUpView_Previews: PreviewProvider {
-    static var previews: some View {
-        SignUpView()
-    }
+#Preview {
+    SignUpView()
 }

@@ -2,11 +2,11 @@
 //  UserLoginWithFirebaseApp.swift
 //  UserLoginWithFirebase
 //
-//  Created by Tom Huynh on 9/2/22.
+//  Created by Tom Huynh on 3/9/24.
 //
 
 import SwiftUI
-import Firebase
+import FirebaseCore
 
 @main
 struct UserLoginWithFirebaseApp: App {
@@ -19,5 +19,3 @@ struct UserLoginWithFirebaseApp: App {
         }
     }
 }
-
-

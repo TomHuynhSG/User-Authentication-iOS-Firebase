@@ -2,11 +2,11 @@
 //  ContentView.swift
 //  UserLoginWithFirebase
 //
-//  Created by Tom Huynh on 9/2/22.
+//  Created by Tom Huynh on 3/9/24.
 //
 
 import SwiftUI
-import Firebase
+import FirebaseAuth
 
 struct ContentView: View {
     @State var email = ""
@@ -73,9 +73,6 @@ struct ContentView: View {
         }
     }
 }
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
+#Preview {
+    ContentView()
 }
